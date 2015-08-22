@@ -23,7 +23,7 @@
 {
     'name': 'Project Meetings',
     'version': '8.0.1.0.0',
-    'author': 'Paramjit Singh Sahota',
+    'author': 'Paramjit Singh A. Sahota',
     'category': 'Custom',
     'depends': ['calendar', 'project'],
     'description': """
